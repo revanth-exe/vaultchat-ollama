@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.py[cod]
+chat_transcripts/
+.venv/
+venv/
